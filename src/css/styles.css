@@ -1,0 +1,15 @@
+.info{
+  text-align: center;
+  position: absolute;
+  width: 5rem;
+  top: 0;
+  left: 50%;
+  transform: translateX(-50%);
+  overflow: hidden;
+  font-family: "Verdana", Roboto, sans-serif;
+  background-color: lightgray;
+}
+
+body{
+  font-size: 10px;
+}
